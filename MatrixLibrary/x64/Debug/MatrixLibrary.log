@@ -1,0 +1,7 @@
+﻿  MatrixLibrary.cpp
+C:\Users\tjsch\source\repos\MatrixLibrary\MatrixLibrary\MatrixLibrary.cpp(4,10): warning C4273: 'matrix_multiply_2d': inconsistent dll linkage
+  (compiling source file '/MatrixLibrary.cpp')
+  C:\Users\tjsch\source\repos\MatrixLibrary\MatrixLibrary\MatrixLibrary.h(11,41):
+  see previous definition of 'matrix_multiply_2d'
+  
+  MatrixLibrary.vcxproj -> C:\Users\tjsch\source\repos\MatrixLibrary\x64\Debug\MatrixLibrary.dll
