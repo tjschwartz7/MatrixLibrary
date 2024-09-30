@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\tjsch\\source\\repos\\MatrixLibrary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1FD58D14-318B-4A80-A59E-3E26CC9514F5}|MatrixLibrary\\MatrixLibrary.vcxproj|C:\\Users\\tjsch\\source\\repos\\MatrixLibrary\\MatrixLibrary\\MatrixLibrary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1FD58D14-318B-4A80-A59E-3E26CC9514F5}|MatrixLibrary\\MatrixLibrary.vcxproj|solutionrelative:MatrixLibrary\\MatrixLibrary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1FD58D14-318B-4A80-A59E-3E26CC9514F5}|MatrixLibrary\\MatrixLibrary.vcxproj|C:\\Users\\tjsch\\source\\repos\\MatrixLibrary\\MatrixLibrary\\MatrixLibrary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1FD58D14-318B-4A80-A59E-3E26CC9514F5}|MatrixLibrary\\MatrixLibrary.vcxproj|solutionrelative:MatrixLibrary\\MatrixLibrary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD58D14-318B-4A80-A59E-3E26CC9514F5}|MatrixLibrary\\MatrixLibrary.vcxproj|C:\\Users\\tjsch\\source\\repos\\MatrixLibrary\\MatrixLibrary\\MatrixLibrary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1FD58D14-318B-4A80-A59E-3E26CC9514F5}|MatrixLibrary\\MatrixLibrary.vcxproj|solutionrelative:MatrixLibrary\\MatrixLibrary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1FD58D14-318B-4A80-A59E-3E26CC9514F5}|MatrixLibrary\\MatrixLibrary.vcxproj|C:\\Users\\tjsch\\source\\repos\\MatrixLibrary\\MatrixLibrary\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,8 +50,7 @@
               "RelativeToolTip": "MatrixLibrary\\pch.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-29T19:46:03.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T19:46:03.282Z"
             },
             {
               "$type": "Document",
@@ -68,26 +67,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MatrixLibrary.cpp",
               "DocumentMoniker": "C:\\Users\\tjsch\\source\\repos\\MatrixLibrary\\MatrixLibrary\\MatrixLibrary.cpp",
               "RelativeDocumentMoniker": "MatrixLibrary\\MatrixLibrary.cpp",
               "ToolTip": "C:\\Users\\tjsch\\source\\repos\\MatrixLibrary\\MatrixLibrary\\MatrixLibrary.cpp",
               "RelativeToolTip": "MatrixLibrary\\MatrixLibrary.cpp",
-              "ViewState": "AQIAAFEAAAAAAAAAAAAAAHkAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-29T19:42:47.969Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MatrixLibrary.h",
               "DocumentMoniker": "C:\\Users\\tjsch\\source\\repos\\MatrixLibrary\\MatrixLibrary\\MatrixLibrary.h",
               "RelativeDocumentMoniker": "MatrixLibrary\\MatrixLibrary.h",
               "ToolTip": "C:\\Users\\tjsch\\source\\repos\\MatrixLibrary\\MatrixLibrary\\MatrixLibrary.h",
               "RelativeToolTip": "MatrixLibrary\\MatrixLibrary.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAATAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-09-29T19:42:40.933Z",
               "EditorCaption": ""
@@ -102,8 +101,7 @@
               "RelativeToolTip": "MatrixLibrary\\dllmain.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-29T19:42:27.001Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T19:42:27.001Z"
             }
           ]
         }
